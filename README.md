@@ -1,5 +1,5 @@
 
-<h3 align="center">A Web Developer and Web 3.0 Enthusiast</h3>
+<h3 align="center"> Web Developer and Web 3.0 Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
